@@ -8,6 +8,8 @@ We are team of experienced full stack python developers
 - Architect you project
 - Create project plan
 - Develop project with python and Django, Flask, Django REST, FastApi, Wagtail
+- Develop project frontends in VueJS, Angular, React or jQuery
+- Create frontends with accessibility that has atleast WCAG2.0 AA standart
 - Deliver CI/CD pipelines in GoCD, Jenkins, Azure pipelines
 - Containerize you project in Docker
 - Deliver project to cloud in AWS, GCP, Linode, DIgital ocean
