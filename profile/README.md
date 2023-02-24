@@ -4,9 +4,9 @@ We are team of experienced full stack python developers
 
 ## How can we help?
 
-- Automate infrastructure provisioning with Terraform, CDK
 - Architect you project
 - Create project plan
+- Automate infrastructure provisioning with Terraform, CDK
 - Develop project with python and Django, Flask, Django REST, FastApi, Wagtail
 - Develop project frontends in VueJS, Angular, React or jQuery
 - Create frontends with accessibility that has atleast WCAG2.0 AA standart
